@@ -34,13 +34,12 @@ VPS、域名、Mac上那一堆的收费软件、还有Apple每年更新的那些
 
 ### 远程外包
 
-最理想的单子还是直接接海外的项目，比如[freelance.com](http://freelance.com)等网站。一方面是因为挣的是美刀比较划算，之前看到像给WordPress写支付+发送注册码这种大家一个周末就能做完的项目，也可以到200~300美刀；另一方面是在国外接单子比较隐蔽。
+最理想的单子还是直接接海外的项目，比如[freelancer.com](http://freelancer.com)等网站。一方面是因为挣的是美刀比较划算，之前看到像给WordPress写支付+发送注册码这种大家一个周末就能做完的项目，也可以到200~300美刀；另一方面是在国外接单子比较隐蔽。
 
 常用国外网站：
 
-- http://odesk.com
 - http://freelancer.com
-- http://elance.com
+- https://www.upwork.com/
 
 （由[ahui132](https://github.com/ahui132)同学补充）
 
