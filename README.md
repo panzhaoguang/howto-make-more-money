@@ -1,5 +1,7 @@
 # 程序员如何优雅的挣零花钱？
 
+the repo is not applicable to foreigners
+
 本文章会持续更新，watch 本 repo，及时获取更新信息。
 
 ![](watch.png)
