@@ -8,11 +8,8 @@ the repo is not applicable to foreigners
 
 [2020/03/04更新]
 
-添加微信支付用SDK，小微商户申请接口暂停的说明
+添加小微商户申请接口暂停的说明
 
-[2019/12/11更新]
-
-新增个人支付接口 payjs 信息
 
 [2019/12/06更新]
 
@@ -268,10 +265,8 @@ PS：交流型付费社群的一个比较难处理的事情是，很难平衡免
 
 ### 可用支付接口
 
-目前已经很多面向个人提供支付的正规服务商，微信也有[~~小微商户~~](https://pay.weixin.qq.com/index.php/core/affiliate/micro_intro) （ 微信于2020年1月暂停了小微商户申请接口，截止3月3日暂未恢复，[详情参考这里](https://developers.weixin.qq.com/community/develop/doc/0000a0ffc9ce28bd4bc9999ba5b800) ）。这里列几个，我自己没有用过，仅提供信息，不作推荐。
+微信有面向个人开放的[~~小微商户~~](https://pay.weixin.qq.com/index.php/core/affiliate/micro_intro) ，但需要服务商通过API申请。（ 注：微信于2020年1月暂停了小微商户申请接口，截止3月3日暂未恢复，[详情参考这里](https://developers.weixin.qq.com/community/develop/doc/0000a0ffc9ce28bd4bc9999ba5b800) ）
 
-#### [payjs](https://payjs.cn)
-![](payjs.png)
 
 ### 可用支付SDK
 
