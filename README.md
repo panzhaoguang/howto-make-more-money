@@ -6,6 +6,9 @@ the repo is not applicable to foreigners
 
 ![](watch.png)
 
+[2020/03/04更新]
+
+添加微信支付用SDK，小微商户申请接口暂停的说明
 
 [2019/12/11更新]
 
@@ -261,12 +264,18 @@ PS：交流型付费社群的一个比较难处理的事情是，很难平衡免
 
 比起内部推荐，猎头推荐的推荐费则会多很多。一个30万年薪的程序员，成功入职后差不多可以拿到1万RMB的推荐费。但猎头渠道的问题在于对简历质量要求非常高，有知名公司背景的才容易成单；回款周期又特别长，一般要入职过了试用期以后才能拿到全部推荐费，得小半年。
 
-## 可用支付接口
+## 支付相关
 
-目前已经很多面向个人提供支付的正规服务商，微信也有[小微商户](https://pay.weixin.qq.com/index.php/core/affiliate/micro_intro)。这里列几个，我自己没有用过，仅提供信息，不作推荐。
+### 可用支付接口
 
-### [payjs](https://payjs.cn)
+目前已经很多面向个人提供支付的正规服务商，微信也有[~~小微商户~~](https://pay.weixin.qq.com/index.php/core/affiliate/micro_intro) （ 微信于2020年1月暂停了小微商户申请接口，截止3月3日暂未恢复，[详情参考这里](https://developers.weixin.qq.com/community/develop/doc/0000a0ffc9ce28bd4bc9999ba5b800) ）。这里列几个，我自己没有用过，仅提供信息，不作推荐。
+
+#### [payjs](https://payjs.cn)
 ![](payjs.png)
+
+### 可用支付SDK
+
+- PHP：[Easywechat](https://www.easywechat.com/) 在多个项目上用过，比较好用。
 
 
 ## 小结
