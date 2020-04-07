@@ -1,0 +1,14 @@
+{
+    "language" : "cn",
+    "links" : {
+        "sidebar" : {
+            "方糖气球" : "http://ftqq.com/"
+        }
+    },
+    "styles" : {
+        "website" : "mystyle.css",
+        "pdf" : "mystyle.css",
+        "mobi" : "mystyle.css",
+        "epub" : "mystyle.css"
+    }
+}
