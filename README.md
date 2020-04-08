@@ -9,8 +9,8 @@ the repo is not applicable to foreigners
 ![](cover.png)
 
 - 源文件：[GitHub Repo](https://github.com/easychen/howto-make-more-money/)
-- 在线阅读：[点此阅读](https://easychen.github.io/howto-make-more-money/)
-- 购买电子版：[约79页，PDF/ePub/Mobi 三种格式](https://next.ftqq.com/12)。
+- 免费在线阅读完整版：[点此阅读](https://easychen.github.io/howto-make-more-money/)
+- 购买打包格式：[约79页，PDF/ePub/Mobi 三种格式](https://next.ftqq.com/12)。
 
 ## 更新日志
 - 2020/04/07：全面重写为一本小书。
