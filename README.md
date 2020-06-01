@@ -8,6 +8,7 @@ the repo is not applicable to foreigners
 
 ![](cover.png)
 
+- 关注作者：微博(主要为技术分享):[@Easy](https://weibo.com/easy) Twitter（主要转发妹子和猫） [easychen](https://twitter.com/easychen/)
 - 源文件：[GitHub Repo](https://github.com/easychen/howto-make-more-money/)
 - 免费在线阅读完整版：[点此阅读](https://easychen.github.io/howto-make-more-money/)
 - 购买打包格式：[约79页，PDF/ePub/Mobi 三种格式](https://next.ftqq.com/12)。
