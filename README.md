@@ -12,7 +12,7 @@ the repo is not applicable to foreigners
   - 微博(主要为技术分享):[@Easy](https://weibo.com/easy) 
   - Twitter（主要转发妹子和猫）：[Easychen](https://twitter.com/easychen/)
 - 源文件：[GitHub Repo](https://github.com/easychen/howto-make-more-money/)
-- 免费在线阅读完整版：[点此阅读](https://easychen.github.io/howto-make-more-money/)
+- 免费在线阅读完整版：[github.io镜像](https://easychen.github.io/howto-make-more-money/) [vercel镜像](https://howto-make-more-money.vercel.app/)
 
 如果你觉得这本小书对你有所帮助的话，请分享给身边的程序员，谢谢。
 
