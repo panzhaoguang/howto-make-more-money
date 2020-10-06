@@ -11,4 +11,9 @@ class RoboFile extends \Robo\Tasks
     {
         $this->_exec("gitbook build . docs");
     }
+
+    public function up($m = 'update')
+    {
+        $this->_exec("git pull && git add . && git commit -m '" . $m . "' && git push");
+    }
 }
